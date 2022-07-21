@@ -1,0 +1,1 @@
+web: gunicorn pollstar.wsgi --log-file -
